@@ -55,5 +55,5 @@ const isHashtagsValid = (value) => {
     return !isInvalid;
   });
 };
-console.log('Файл check-hashtag-validity.js Работает');
+
 export {error, isHashtagsValid};
